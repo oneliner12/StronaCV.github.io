@@ -38,7 +38,7 @@ h2 {
     color: rgba(255, 255, 255, 0.8);
 	background-color: rgba(87, 128, 130, 0.3);
         overflow: hidden;
-    max-height: 500px;
+    max-height: 100%;
     height: auto;
 }
 
